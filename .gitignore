@@ -76,4 +76,4 @@ DerivedDataCache/*
 # Large Files (unable to commit)
 Content/Environment/Rock/RockFlat_01.fbx
 Content/Environment/Rock/RockFlat_01.uasset
-Content/Props/T_Metal_N.uasset
+Content/Materials/T_Metal_N.uasset
