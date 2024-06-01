@@ -8,6 +8,8 @@ Assets Link: [FirstGameInUE5_Source](https://drive.google.com/file/d/1FAVWZ5rLMY
 
 [Gameplay](https://github.com/rohan-bhautoo/StackBot/assets/47154593/74de0956-d820-4ca8-ad53-5bed81207bba)
 
+## Player Controller
+
 ## Interactive Component
 
 ## AI Controller
