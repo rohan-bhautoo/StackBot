@@ -4,7 +4,7 @@
 Stack Bot is a small engaging and dynamic game developed using Unreal Engine 5.
 
 ### Game Mechanics
-- Bot Control: Take command of a bot with simple and intuitive controls. By right-clicking with the mouse, you can guide the bot to follow your cursor's direction seamlessly.
+- Bot Control: Take command of a bot with simple and intuitive controls. By left-clicking with the mouse, you can guide the bot to follow your cursor's direction seamlessly.
 - Orb Generation: Press the space bar to spawn a glowing orb at the bot's location. These orbs play a crucial role in the game's mechanics and interactions.
 - AI Bot: The sole mission of AI-controlled bot is to collect all the orbs scattered across the map. Each time an orb is spawned by the player, the AI bot will dynamically adjust its path to retrieve it.
 
@@ -60,6 +60,15 @@ In "FirstGameInUE5_Source.zip" you will find:
   - T_Ribbing_N.tga
 
 ## Player Controller
+The player is controlled using the ToogleInput Action Mapping which is set to the Left Mouse Button. Whenever this button is clicked, the player will move to its new location as implemented in BP_PlayerController.
+
+<img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/0d44aa8b-ba26-456d-b244-52ba4f99fc96" width="100%" alt="PlayerController"/>
+
+#### Action
+![Action](https://github.com/rohan-bhautoo/StackBot/assets/47154593/729d257c-7916-4beb-8503-d43d5b568481)
+
+#### Blueprint
+![Blueprint](https://github.com/rohan-bhautoo/StackBot/assets/47154593/25e1342e-7ce0-425f-9a7c-81a5ae7fffbe)
 
 ## Interactive Component
 
