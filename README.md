@@ -71,24 +71,30 @@ The player is controlled using the ToogleInput Action Mapping which is set to th
 ![PlayerController_Blueprint](https://github.com/rohan-bhautoo/StackBot/assets/47154593/25e1342e-7ce0-425f-9a7c-81a5ae7fffbe)
 
 ## Interactive Component
+Whenever an object collides with the pressure plate, the plates will move in the Z-axis to replicate the action of it being pressed. Once the pressure plate is pressed, the door will open.
+
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/ccdc2534-4f15-4811-b596-d6ee92d91223" width="100%" alt="Interactive Component"/>
 
 #### Blueprints
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/6cb42333-052e-468a-8888-9dfe4efc44cc" width="100%" alt="Interactive Component Blueprint 1"/>
 
-![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/4ebdfeba-3e23-4ea0-a6dc-ab92103f3909)
+![Interactive Component Blueprint 2](https://github.com/rohan-bhautoo/StackBot/assets/47154593/4ebdfeba-3e23-4ea0-a6dc-ab92103f3909)
 
-![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/3290bafb-1ae1-4f51-b3d4-90c1f10575d8)
+![Interactive Component Blueprint 3](https://github.com/rohan-bhautoo/StackBot/assets/47154593/3290bafb-1ae1-4f51-b3d4-90c1f10575d8)
 
 ## AI Controller
+The role of the AI Controller is to move the AI Bot to the index 0 of the Orb. If it is found, the FindOrb() function will execute to return the orb object. Every 3 secs, the Move() event of the AI Bot will execute to check if any orbs exist.
+
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/6eaa58ab-bf7a-4f31-869a-f9960325a688" width="100%" alt="AI Controller"/>
 
 #### Blueprints
-![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/c27db45f-2d39-48e4-b6e6-17e238f6f90f)
+![AI Controller Blueprint 1](https://github.com/rohan-bhautoo/StackBot/assets/47154593/c27db45f-2d39-48e4-b6e6-17e238f6f90f)
 
-![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/130ac72a-a526-4ab5-89c3-208f87be691f)
+![AI Controller Blueprint 2](https://github.com/rohan-bhautoo/StackBot/assets/47154593/130ac72a-a526-4ab5-89c3-208f87be691f)
 
 ## Spawn Orbs
+Orbs are spawned when the player presses space-bar on the keyboard. The orb will be spawn at the player's current location and the AI Bot will advance to collect it.
+
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/097c37a3-d28f-4f4c-9d54-5b8543cbd354" width="100%" alt="Spawn Orbs"/>
 
 #### Action
@@ -96,7 +102,6 @@ The player is controlled using the ToogleInput Action Mapping which is set to th
 
 #### Blueprint
 ![Spawn Orbs Blueprint](https://github.com/rohan-bhautoo/StackBot/assets/47154593/a21d3d5a-f135-4a44-891e-d763d8e5a06a)
-
 
 ## Effects
 
