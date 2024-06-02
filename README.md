@@ -1,6 +1,15 @@
 ![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/40f885a2-4338-4d29-83d2-3d97b93f3b09)
 
 # Stack-Bot
+Stack Bot is a small engaging and dynamic game developed using Unreal Engine 5.
+
+### Game Mechanics
+- Bot Control: Take command of a bot with simple and intuitive controls. By right-clicking with the mouse, you can guide the bot to follow your cursor's direction seamlessly.
+- Orb Generation: Press the space bar to spawn a glowing orb at the bot's location. These orbs play a crucial role in the game's mechanics and interactions.
+- AI Bot: The sole mission of AI-controlled bot is to collect all the orbs scattered across the map. Each time an orb is spawned by the player, the AI bot will dynamically adjust its path to retrieve it.
+
+#### Interactive Elements
+- Pressure Plates and Doors: When the bot or another object stands on a pressure plate, it triggers the mechanism to open a corresponding door.
 
 ![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/58e9e19f-94a2-49af-9085-58d378dca63a)
 
