@@ -65,19 +65,24 @@ The player is controlled using the ToogleInput Action Mapping which is set to th
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/0d44aa8b-ba26-456d-b244-52ba4f99fc96" width="100%" alt="PlayerController"/>
 
 #### Action
-![Action](https://github.com/rohan-bhautoo/StackBot/assets/47154593/729d257c-7916-4beb-8503-d43d5b568481)
+<img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/729d257c-7916-4beb-8503-d43d5b568481" width="100%" alt="PlayerController_Action"/>
 
 #### Blueprint
-![Blueprint](https://github.com/rohan-bhautoo/StackBot/assets/47154593/25e1342e-7ce0-425f-9a7c-81a5ae7fffbe)
+![PlayerController_Blueprint](https://github.com/rohan-bhautoo/StackBot/assets/47154593/25e1342e-7ce0-425f-9a7c-81a5ae7fffbe)
 
 ## Interactive Component
+![InteractiveComponent](https://github.com/rohan-bhautoo/StackBot/assets/47154593/ccdc2534-4f15-4811-b596-d6ee92d91223)
 
 ## AI Controller
+![AIController](https://github.com/rohan-bhautoo/StackBot/assets/47154593/6eaa58ab-bf7a-4f31-869a-f9960325a688)
 
 ## Spawn Orbs
+![SpawnOrbs](https://github.com/rohan-bhautoo/StackBot/assets/47154593/097c37a3-d28f-4f4c-9d54-5b8543cbd354)
 
 ## Effects
 
 ### FX_Dust
+![FX_Dust](https://github.com/rohan-bhautoo/StackBot/assets/47154593/549a7e49-c7cd-4f08-a44e-0a771e3bb520)
 
 ### Camera Shake
+![CameraShake](https://github.com/rohan-bhautoo/StackBot/assets/47154593/1413f144-438b-473a-b597-4c57ade14239)
