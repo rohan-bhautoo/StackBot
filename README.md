@@ -74,7 +74,7 @@ The player is controlled using the ToogleInput Action Mapping which is set to th
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/ccdc2534-4f15-4811-b596-d6ee92d91223" width="100%" alt="Interactive Component"/>
 
 #### Blueprints
-![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/6cb42333-052e-468a-8888-9dfe4efc44cc)
+<img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/6cb42333-052e-468a-8888-9dfe4efc44cc" width="100%" alt="Interactive Component Blueprint 1"/>
 
 ![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/4ebdfeba-3e23-4ea0-a6dc-ab92103f3909)
 
@@ -93,6 +93,9 @@ The player is controlled using the ToogleInput Action Mapping which is set to th
 
 #### Action
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/32461b34-243f-4714-b59a-5385c000f702" width="100%" alt="Spawn Orbs Action"/>
+
+#### Blueprint
+![Spawn Orbs Blueprint](https://github.com/rohan-bhautoo/StackBot/assets/47154593/a21d3d5a-f135-4a44-891e-d763d8e5a06a)
 
 
 ## Effects
