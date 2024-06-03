@@ -104,9 +104,19 @@ Orbs are spawned when the player presses space-bar on the keyboard. The orb will
 ![Spawn Orbs Blueprint](https://github.com/rohan-bhautoo/StackBot/assets/47154593/a21d3d5a-f135-4a44-891e-d763d8e5a06a)
 
 ## Effects
+Effects are used to enhance the game experience and bring the game world to life. Below is a list of effects that were created directly inside Unreal Engine 5.
+
+### SFX_FootStep
+The audio was created with MetaSoundSource which adds a small sound effect to the bot after each step.
+
+![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/31ae0b0f-1adc-43bc-88c5-79b79ef8d626)
 
 ### FX_Dust
+Footstep dust particles were created with Niagara system, adding visual flair and a sense of movement to the bot.
+
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/549a7e49-c7cd-4f08-a44e-0a771e3bb520" width="100%" alt="FX_Dust"/>
 
 ### Camera Shake
+After each interation with the pressure plate, the camera will shake, enabling the player to know that the door has been opened.
+
 <img src="https://github.com/rohan-bhautoo/StackBot/assets/47154593/1413f144-438b-473a-b597-4c57ade14239" width="100%" alt="Camera Shake"/>
